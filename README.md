@@ -80,7 +80,7 @@ SELECT name, average_rating FROM movies_table
  ```
  
 ## Visualization - Tableau
-A) Evolution of film genres across decades:
+**A) Evolution of film genres across decades:**
 The database includes data from the 1900s to the 2020s; however, there is only sufficient data available for the 60s, 70s, 80s, and 90s to facilitate meaningful comparisons among them. Consequently, we have selected these decades to construct a bar plot per decade and examine the progression of film genres over time.
 Observing the plots below, it becomes evident that the genre "drama" holds the highest frequency, followed by comedy and action during the 60s, 70s, and 80s. Conversely, the genres of family and children dominate the 90s. Notably, the western genre has experienced a significant decline over time, whereas others, such as romance, have consistently maintained their respective positions in the ranking.
 ![image](https://github.com/laumosa/Project4-sql-tableau/assets/83134591/d8c31384-84f7-4d4d-a83c-ddafb0e36ae1)
@@ -88,9 +88,15 @@ Observing the plots below, it becomes evident that the genre "drama" holds the h
 ![image](https://github.com/laumosa/Project4-sql-tableau/assets/83134591/d7bd592d-a5a0-4e7e-a578-8086507fd567)
 ![image](https://github.com/laumosa/Project4-sql-tableau/assets/83134591/bd8ae275-746e-413c-a662-df3b93a9bed0)
 
-B) List of movies from the 21st century acccording to its average rate:
+**B) List of movies from the 21st century acccording to its average rate:**
 The highest-rated film of the 21st century is "Avenged" directed by Michael S. Ojeda, followed by "2001: A Space Odyssey" and "Casablanca". Subsequently, the average ratings of the remaining films fall below 9.
 ![image](https://github.com/laumosa/Project4-sql-tableau/assets/83134591/4d6de8b5-d620-4354-9b75-4d5ed552f051)
 
-C) List of movies from the 21st century acccording to its average rate:
+C) Comedy vs. Horror films duration:
+I have conducted a comparison of film frequencies using a histogram plot for both the comedy and horror genres, given their contrasting nature. As depicted in the plot, a significant majority of films fall within the 60 to 100-minute range. However, for durations exceeding 100 minutes, comedy films exhibit higher frequency compared to horror films, while the reverse holds true for films lasting less than 60 minutes. It is important to acknowledge that the compilation of films may contain a greater number of comedies than horror films, potentially introducing bias into the results.
+![image](https://github.com/laumosa/Project4-sql-tableau/assets/83134591/3405e679-6f79-45c2-8fed-cba0e5d528ad)
+
+
+
+
 
