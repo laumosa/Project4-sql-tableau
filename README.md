@@ -79,4 +79,13 @@ SELECT name, average_rating FROM movies_table
            WHERE average_rating <= 1;
  ```
  
- ## Visualization - Tableau
+## Visualization - Tableau
+A) Evolution of film genres across decades
+![image](https://github.com/laumosa/Project4-sql-tableau/assets/83134591/bac44713-a5c2-4a19-82c1-0b52a92b34ce)
+![image](https://github.com/laumosa/Project4-sql-tableau/assets/83134591/1586430d-3d6e-464f-8c89-dcd2dbde448c)
+![image](https://github.com/laumosa/Project4-sql-tableau/assets/83134591/4a05eb17-e98a-424e-9da4-a4177e96a7c4)
+![image](https://github.com/laumosa/Project4-sql-tableau/assets/83134591/0c5446ce-de8b-44ae-bacd-e24b91396dcd)
+![image](https://github.com/laumosa/Project4-sql-tableau/assets/83134591/b968ba6b-df6a-41fe-bab8-b288a39a3ea8)
+![image](https://github.com/laumosa/Project4-sql-tableau/assets/83134591/f6564e86-717d-4c22-ba51-aee8d3e48c2b)
+![image](https://github.com/laumosa/Project4-sql-tableau/assets/83134591/938d0eb2-1b1f-4bb5-b2aa-b00ea869974a)
+
