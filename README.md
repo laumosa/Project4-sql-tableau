@@ -80,12 +80,17 @@ SELECT name, average_rating FROM movies_table
  ```
  
 ## Visualization - Tableau
-A) Evolution of film genres across decades
-![image](https://github.com/laumosa/Project4-sql-tableau/assets/83134591/bac44713-a5c2-4a19-82c1-0b52a92b34ce)
-![image](https://github.com/laumosa/Project4-sql-tableau/assets/83134591/1586430d-3d6e-464f-8c89-dcd2dbde448c)
-![image](https://github.com/laumosa/Project4-sql-tableau/assets/83134591/4a05eb17-e98a-424e-9da4-a4177e96a7c4)
-![image](https://github.com/laumosa/Project4-sql-tableau/assets/83134591/0c5446ce-de8b-44ae-bacd-e24b91396dcd)
-![image](https://github.com/laumosa/Project4-sql-tableau/assets/83134591/b968ba6b-df6a-41fe-bab8-b288a39a3ea8)
-![image](https://github.com/laumosa/Project4-sql-tableau/assets/83134591/f6564e86-717d-4c22-ba51-aee8d3e48c2b)
-![image](https://github.com/laumosa/Project4-sql-tableau/assets/83134591/938d0eb2-1b1f-4bb5-b2aa-b00ea869974a)
+A) Evolution of film genres across decades:
+The database includes data from the 1900s to the 2020s; however, there is only sufficient data available for the 60s, 70s, 80s, and 90s to facilitate meaningful comparisons among them. Consequently, we have selected these decades to construct a bar plot per decade and examine the progression of film genres over time.
+Observing the plots below, it becomes evident that the genre "drama" holds the highest frequency, followed by comedy and action during the 60s, 70s, and 80s. Conversely, the genres of family and children dominate the 90s. Notably, the western genre has experienced a significant decline over time, whereas others, such as romance, have consistently maintained their respective positions in the ranking.
+![image](https://github.com/laumosa/Project4-sql-tableau/assets/83134591/d8c31384-84f7-4d4d-a83c-ddafb0e36ae1)
+![image](https://github.com/laumosa/Project4-sql-tableau/assets/83134591/5ea6c7b9-4966-4b53-898b-e94b75611e51)
+![image](https://github.com/laumosa/Project4-sql-tableau/assets/83134591/d7bd592d-a5a0-4e7e-a578-8086507fd567)
+![image](https://github.com/laumosa/Project4-sql-tableau/assets/83134591/bd8ae275-746e-413c-a662-df3b93a9bed0)
+
+B) List of movies from the 21st century acccording to its average rate:
+The highest-rated film of the 21st century is "Avenged" directed by Michael S. Ojeda, followed by "2001: A Space Odyssey" and "Casablanca". Subsequently, the average ratings of the remaining films fall below 9.
+![image](https://github.com/laumosa/Project4-sql-tableau/assets/83134591/4d6de8b5-d620-4354-9b75-4d5ed552f051)
+
+C) List of movies from the 21st century acccording to its average rate:
 
