@@ -103,10 +103,10 @@ I have conducted a comparison of film frequencies using a histogram plot for bot
 ![image](https://github.com/laumosa/Project4-sql-tableau/assets/83134591/affc1d37-9e98-41a2-84aa-9b523f76b6db)
 
 **E) Evolution of film genre of two of the most popular actors of all time:**
-
-![image](https://github.com/laumosa/Project4-sql-tableau/assets/83134591/04a191b5-c14b-46aa-812f-b424bd4f0272)
+Based on the previous results, the most prevalent genre for both actors is drama. Marlon Brando's second most common genre is history, whereas for Ingrid Bergman, it is romance and comedy.
 
 ![image](https://github.com/laumosa/Project4-sql-tableau/assets/83134591/4260e5b7-4e77-4b63-bf6c-8ddb9b029a3c)
 
+![image](https://github.com/laumosa/Project4-sql-tableau/assets/83134591/04a191b5-c14b-46aa-812f-b424bd4f0272)
 
 
