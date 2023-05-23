@@ -92,11 +92,21 @@ Observing the plots below, it becomes evident that the genre "drama" holds the h
 The highest-rated film of the 21st century is "Avenged" directed by Michael S. Ojeda, followed by "2001: A Space Odyssey" and "Casablanca". Subsequently, the average ratings of the remaining films fall below 9.
 ![image](https://github.com/laumosa/Project4-sql-tableau/assets/83134591/4d6de8b5-d620-4354-9b75-4d5ed552f051)
 
-C) Comedy vs. Horror films duration:
+**C) Comedy vs. Horror films duration:**
 I have conducted a comparison of film frequencies using a histogram plot for both the comedy and horror genres, given their contrasting nature. As depicted in the plot, a significant majority of films fall within the 60 to 100-minute range. However, for durations exceeding 100 minutes, comedy films exhibit higher frequency compared to horror films, while the reverse holds true for films lasting less than 60 minutes. It is important to acknowledge that the compilation of films may contain a greater number of comedies than horror films, potentially introducing bias into the results.
 ![image](https://github.com/laumosa/Project4-sql-tableau/assets/83134591/3405e679-6f79-45c2-8fed-cba0e5d528ad)
 
+**D) Film directors with the maximum average rate by decade:**
 
+![image](https://github.com/laumosa/Project4-sql-tableau/assets/83134591/c82987e5-14f1-4227-829d-4dbd249dcc76)
+
+![image](https://github.com/laumosa/Project4-sql-tableau/assets/83134591/affc1d37-9e98-41a2-84aa-9b523f76b6db)
+
+**E) Evolution of film genre of two of the most popular actors of all time:**
+
+![image](https://github.com/laumosa/Project4-sql-tableau/assets/83134591/04a191b5-c14b-46aa-812f-b424bd4f0272)
+
+![image](https://github.com/laumosa/Project4-sql-tableau/assets/83134591/4260e5b7-4e77-4b63-bf6c-8ddb9b029a3c)
 
 
 
